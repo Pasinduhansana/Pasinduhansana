@@ -9,27 +9,26 @@ I’m currently looking to gain hands-on experience in \*\*full-stack developmen
 
 
 
-\## 🔹 Technologies \& Skills
+🔹 Technologies \& Skills
 
 
 
-\*\***Front-End:** - VB.Net / C# / .NET / Python / Java / Spring Boot
+**Front-End:** - VB.Net / C# / .NET / Python / Java / Spring Boot
 
-\*\***Back-End:** - WPF-XAML / JavaScript / Next.js / TypeScript / React / Tailwind CSS / Angular
+**Back-End:** - WPF-XAML / JavaScript / Next.js / TypeScript / React / Tailwind CSS / Angular
 
-\*\***Databases:** - MySQL, MongoDB , Firebase , SQLite (SQL \& NoSQL)
+**Databases:** - MySQL, MongoDB , Firebase , SQLite (SQL \& NoSQL)
 
-\*\***DevOps \& Tools**: Git, Docker, Deployment Basics  
+**DevOps \& Tools**: Git, Docker, Deployment Basics  
 
-\*\***Other Skills:** API Development, Version Control, Debugging, Problem-Solving, Team Collaboration, Clean Code Practices  
+**Other Skills:** API Development, Version Control, Debugging, Problem-Solving, Team Collaboration, Clean Code Practices  
 
 
 
 ---
 
 
-
-\## 🔹 Projects / Showcase
+🔹 Projects / Showcase
 
 
 
@@ -37,79 +36,53 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 
-\### 1. Disaster Management Web Application  
+**1. Disaster Management Web Application  **
 
-\- \*\*Tech Stack:\*\* React, Node.js, MongoDB  
+**Tech Stack**: React, Node.js, MongoDB  
 
-\- \*\*Description:\*\* Allows users to report disasters, manage funding, and view community posts. Includes admin dashboards and predictive AI tools for flooding.  
+**Description**: Allows users to report disasters, manage funding, and view community posts. Includes admin dashboards and predictive AI tools for flooding.  
 
-\- \*\*Highlights:\*\* Full-stack integration, REST APIs, user management, and real-time data handling.  
-
-
-
-\### 2. Supplier PO \& Shipment Tracker System  
-
-\- \*\*Tech Stack:\*\* C#, WPF, SQL Server  
-
-\- \*\*Description:\*\* Tracks purchase orders and shipments with real-time dashboards, inventory insights, and alerts.  
-
-\- \*\*Highlights:\*\* Reduces manual work, implements data-driven decision support.  
+**Highlights**: Full-stack integration, REST APIs, user management, and real-time data handling.  
 
 
 
-\### 3. AI-Powered Web Applications  
+**2. Supplier PO \& Shipment Tracker System  **
 
-\- \*\*Tech Stack:\*\* Python, TensorFlow, JavaScript  
+**Tech Stack:** C#, WPF, SQL Server  
 
-\- \*\*Description:\*\* Predictive analytics apps with machine learning models for demand forecasting and recommendation systems.  
+**Description:** Tracks purchase orders and shipments with real-time dashboards, inventory insights, and alerts.  
 
-\- \*\*Highlights:\*\* Data analysis, ML model deployment, cloud integration.  
+**Highlights:** Reduces manual work, implements data-driven decision support.  
 
 
 
-\*(Other projects can be added similarly)\*
+**3. AI-Powered Web Applications  **
+
+**Tech Stack:** Python, TensorFlow, JavaScript  
+
+**Description:** Predictive analytics apps with machine learning models for demand forecasting and recommendation systems.  
+
+**Highlights: **Data analysis, ML model deployment, cloud integration.  
 
 
 
 ---
 
+🔹 Connect with Me
 
 
-\## 🔹 GitHub Highlights
+**LinkedIn**: https://www.linkedin.com/in/pasindu-hansana 
 
+**Portfolio**: https://pasinduhansana.netlify.app/
 
-
-\- Clean project organization with descriptive \*\*README.md\*\* files  
-
-\- Code structured for readability and maintainability  
-
-\- Active use of \*\*version control\*\* and GitHub workflows  
-
-\- Pinned projects highlight practical work and learning  
-
+**Contact**: Gallagepasinduhansana@gmail.com 
 
 
 ---
 
 
+“I am passionate about learning, building, and contributing. I believe in clean code, continuous improvement, and solving real problems with technology.”
 
-\## 🔹 Connect with Me
-
-
-
-\- LinkedIn: https://www.linkedin.com/in/pasindu-hansana 
-
-\- Portfolio: https://pasinduhansana.netlify.app/
-
-\- Contact: Gallagepasinduhansana@gmail.com 
-
-
-
----
-
-
-
-> “I am passionate about learning, building, and contributing. I believe in clean code, continuous improvement, and solving real problems with technology.”
 
 
 
