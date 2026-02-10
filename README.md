@@ -1,8 +1,6 @@
-\Hi, I’m Pasindu Hansana 👋
+Hi, I’m Pasindu Hansana 👋
 
-Aspiring \*\*Full-Stack Developer\*\* | Passionate about building web applications and solving real-world problems through code.  
-
-
+Aspiring \*\*Full-Stack Developer\*\* | Passionate about building web applications and solving real-world problems through code.
 I’m currently looking to gain hands-on experience in \*\*full-stack development\*\*, strengthen my technical skills, and contribute to innovative projects.
 
 
@@ -15,33 +13,15 @@ I’m currently looking to gain hands-on experience in \*\*full-stack developmen
 
 
 
-\*\*Front-End:\*\*  
+\*\***Front-End:** - VB.Net / C# / .NET / Python / Java / Spring Boot
 
-HTML, CSS, JavaScript, React  
+\*\***Back-End:** - WPF-XAML / JavaScript / Next.js / TypeScript / React / Tailwind CSS / Angular
 
+\*\***Databases:** - MySQL, MongoDB , Firebase , SQLite (SQL \& NoSQL)
 
+\*\***DevOps \& Tools**: Git, Docker, Deployment Basics  
 
-\*\*Back-End:\*\*  
-
-Node.js, Python, Java  
-
-
-
-\*\*Databases:\*\*  
-
-MySQL, MongoDB (SQL \& NoSQL)  
-
-
-
-\*\*DevOps \& Tools:\*\*  
-
-Git, Docker, Deployment Basics  
-
-
-
-\*\*Other Skills:\*\*  
-
-API Development, Version Control, Debugging, Problem-Solving, Team Collaboration, Clean Code Practices  
+\*\***Other Skills:** API Development, Version Control, Debugging, Problem-Solving, Team Collaboration, Clean Code Practices  
 
 
 
@@ -130,6 +110,7 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 > “I am passionate about learning, building, and contributing. I believe in clean code, continuous improvement, and solving real problems with technology.”
+
 
 
 
