@@ -36,7 +36,8 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 
-**1. Disaster Management Web Application  **
+**1. Disaster Management Web Application**
+
 
 **Tech Stack**: React, Node.js, MongoDB  
 
@@ -46,7 +47,10 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 
-**2. Supplier PO \& Shipment Tracker System  **
+
+
+**2. Supplier PO \& Shipment Tracker System**
+
 
 **Tech Stack:** C#, WPF, SQL Server  
 
@@ -56,7 +60,10 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 
-**3. AI-Powered Web Applications  **
+
+
+**3. AI-Powered Web Applications**
+
 
 **Tech Stack:** Python, TensorFlow, JavaScript  
 
@@ -82,6 +89,7 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 “I am passionate about learning, building, and contributing. I believe in clean code, continuous improvement, and solving real problems with technology.”
+
 
 
 
