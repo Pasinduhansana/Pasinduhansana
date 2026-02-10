@@ -120,11 +120,11 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 
-\- LinkedIn: \[EonTech Global Group (Pvt) Ltd](https://www.linkedin.com) \*(replace with your LinkedIn)\*  
+\- LinkedIn: https://www.linkedin.com/in/pasindu-hansana 
 
-\- Portfolio / Website: \[Your Website URL](#) \*(optional)\*  
+\- Portfolio: https://pasinduhansana.netlify.app/
 
-\- Contact: pasindu.email@example.com \*(replace with your email)\*  
+\- Contact: Gallagepasinduhansana@gmail.com 
 
 
 
@@ -133,6 +133,7 @@ Here are some highlighted projects demonstrating my work across front-end, back-
 
 
 > “I am passionate about learning, building, and contributing. I believe in clean code, continuous improvement, and solving real problems with technology.”
+
 
 
 
